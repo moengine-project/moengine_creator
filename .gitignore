@@ -28,9 +28,10 @@
 .pub-cache/
 .pub/
 build/
+pubspec.lock
 res/
 lib/generated/
-pubspec.lock
+.flutter-plugins-dependencies
 
 # Android related
 **/android/**/gradle-wrapper.jar
